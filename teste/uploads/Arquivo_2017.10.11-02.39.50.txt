@@ -1,0 +1,52 @@
+Vagton Alves Ferreira
+
+Brasileiro, 48 anos, casado, 1 filho
+Rua Oliveira de Andrade , 182 apto 304 Piedade
+CEP: 20751-030 - Rio de Janeiro - RJ - Brasil
+
+
+Objetivo
+Auxiliar / Programador PHP / Desenvolvedor Web / Técnico em Telecomunicações / Técnico em Eletrônica com CREA .
+Pós-Graduação
+ENGENHARIA DE SOFTWARE - JAVA ENTERPRISE EDITION
+FACULDADE DE TECNOLOGIA – SENAC RIO – Mai/2012 – Conhecimento Académico
+Graduação
+TECNOLOGIA DE SISTEMAS PARA INTERNET – TSI
+CEFET-RJ – Ago/2010
+  Curso nível Médio (2º grau)
+  ESCOLA TÉCNICA ESTADUAL VISCONDE DE MAUÁ 
+  TÉCNICO EM ELETRÔNICA – dez/1990 - (Possui CREA – RJ)
+
+ Inglês Técnico
+  
+ Histórico profissional
+Oi/Telemar  - Abr 2013 à Mar 2017, 4 anos
+Cargo: Nível Especialista II
+- Participação em Daily Scrum no manifesto ágil Scrum
+- Desenvolvimento de sistemas Web em PHP O.O + Bootstrap.
+- Manipulação de dados em Mysql, Postgresql e Oracle, (relatórios em SQL).
+- Automação de sistemas em Shell Script, VBA e Auto it.
+- Acompanhamento individual de demandas via Mantis
+- Utilização do Eclipse + SVN em todos os projetos, plataforma Linux Ubuntu, Suporte a aplicações criadas em Java + Alteração de APIs, Suporte a aplicações
+- Suporte e Manutenção de Computadores, Servidores, Impressoras e Scaner.
+
+Nokia Siemens Networks  - Jun 2009 à Abr 2013, 3 anos e 11 meses
+Cargo: Nível Analista II
+- Desenvolvimento em PHP de sistemas coorporativos
+- Manipulação de Base dados em Mysql e Postgres para geração de relatórios
+- Atuação nas Plataformas (NEC, Siemens, Alcatel, Tropico, Huawei, Telcordia, Lucent), execução de projetos UML, PHP, Java, Java Script, jquery, Shell Script, (Macros em Vba para obter informações do mainframe IBM 3270
+
+Oi/Telemar  - Out 1993 à Jun 2009, 16 anos e 7 meses
+Cargo: Técnico I – Eletrônica com CREA
+- Programação e Manutenção de Computadores e Equipamentos de telecomunicação, configuração de centrais digitais, instalação e manutenção de Impressoras e Scaner e projetores.
+
+EMBRATEL – Técnico em Eletrônica com CREA 
+- Manutenção de Modens e fontes chaveadas
+Cursos Complementares
+	PROGRAMAÇÃO DE COMPUTADORES – Dez/1997  - PUC - RJ 
+	HARDWARE AVANÇADO DE PC - MANUT. E INST., TECNOPORT - RJ 
+	Eletrônica, Radio Tv - Escola Electra
+	Infusion hand’s On - CENTRO DE TREINAMENTO SÃO PAULO, ALCATEL 
+	SN2050,SN2057,SN2058 - SURPASS , HIQ 10/30 , HIQ 20, SIEMENS, NGN da HUAWEIADSL 
+	MANUTENÇÃO E CONFIGURAÇÃO CENTRAL DIGITAL - NEAX 61 BR SIGMA 
+	PROGRAMAÇÃO AVANÇADA VISUAL BASIC 5.0
